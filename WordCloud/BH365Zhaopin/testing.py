@@ -1,9 +1,6 @@
 \# -*- coding: utf-8 -*-
 
-import jieba
-from matplotlib import pyplot as plt
-from BeihaiJobAPI import BeiHaiJobAPI
-from wordcloud import WordCloud
+from WordCloud.BeihaiJob.BeihaiJobAPI import BeiHaiJobAPI
 from datetime import datetime, timedelta
 import csv
 
