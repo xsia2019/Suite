@@ -36,7 +36,7 @@ The President underscored his support for a diplomatic resolution to the crisis.
 The two leaders also agreed on the importance of maintaining open lines of communication, to manage the competition between our two countries.   
 两位领导人一致认为，为管控我们两国之间的竞争保持畅通的沟通渠道很重要。  
 
-The President reiterated that U.S. policy on Taiwan has not changed, and emphasized that the United States continues to oppose any unilateral changes to the status quo. 
+The President reiterated that U.S. policy on Taiwan has not changed, and emphasized that the United States continues to oppose any unilateral changes to the status quo.   
 总统重申美国对台政策没有改变，并强调美国继续反对任何试图改变现状的单边行为。  
 
 The two leaders tasked their teams to follow up on today’s conversation in the critical period ahead.   
